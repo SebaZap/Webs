@@ -1,0 +1,41 @@
+body {
+    background-color: #2c2c2c;
+    text-align: center;
+    margin: 0;
+}
+
+header{
+    margin: auto;
+    width: 600px;
+    height: 150px;
+    background: chartreuse;
+    padding-top: 20px;
+}
+
+nav {
+    font-weight: bold;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+a:link {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #00a329;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:active {
+    text-decoration: none;
+    color: #000000;
+}

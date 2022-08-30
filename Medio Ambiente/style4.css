@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(255, 255, 255);
+    border-style: ridge;
+}
+
+header img {
+    width: 200px;
+}
+
+nav ul {
+    list-style-type: none ;
+    background-color: rgb(52, 140, 255);
+    font-weight: bold;
+    overflow: hidden;
+}
+
+nav ul li {
+    float: left;
+    margin-left: 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: rgb(0, 39, 112);
+    padding: 10px;
+}
+
+a:hover{
+    color: rgb(0, 162, 255);
+    background-color: rgb(1, 37, 116);
+}
+
+main {
+    width: 800px;
+    margin: auto;
+}
+
+article {
+    width: 350px;
+    float: left;
+}
+
+article img {
+    margin-left: 10px;
+}
+
+aside {
+    width: 400px;
+    float: left
+}
+
+div { 
+    text-align: center;
+    clear:both;
+    margin-top: 100px;
+}
+
+h1 {
+ 
+}
